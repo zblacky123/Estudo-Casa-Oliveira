@@ -48,3 +48,8 @@ Com a intenção de aumentar o negócio, Roberto está disposto a informatizar s
 ### Modelo conceitual
 
 !['Diagrama do modelo conceitual'](./modeloconceitual.png)
+
+
+### Modelo lógico
+
+!["Diagrama do modelo lógico de estoque"](./modelo_logico_estoque.png)
