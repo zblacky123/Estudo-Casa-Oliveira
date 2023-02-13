@@ -160,7 +160,9 @@ Para o campo descricao, usaremos o tipo de dado Text. Com este tipo podemos inse
  quantidade_lote int);
  ```
  
- 
+ ### Modelo Físico - MER (Modelo de Entidade Relacional)
+
+ !["Diagrama do Modelo de Entidade Relacional"](./modelo_fisico.png)
  
  
  
